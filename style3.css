@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.first
+{
+   
+   background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(desert.jpg);
+    background-position: center;
+    background-size:cover;
+    height:50vh;
+    background-attachment: fixed;
+    background-repeat: repeat;
+
+}
+.first 
+{
+   
+    padding:250px;
+    
+}
+.first p{
+    font-size:40px;
+    text-align: center;
+    text-decoration-color:beige;
+    font-family:fantasy;
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    background-color: aliceblue;
+    
+
+}
+.section 
+{
+    margin:inherit;
+    padding:60px;
+    background-color:ghostwhite;
+    
+}
+.section header{
+    text-align: center;
+    font-size:30px;
+    padding:10px;
+}
+.section p
+{
+    font-size:17px;
+    font-family:monospace;
+    
+}
+.second{
+     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(alone.jpg);
+    background-position: center;
+    background-size:cover;
+    height:5vh;
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+.second 
+{
+    padding:250px;
+}
+.second p{
+    font-size:40px;
+    text-align: center;
+    text-decoration-color:beige;
+    font-family:fantasy;
+    background-color: aliceblue;
+    
+}
+.sectiontwo
+{
+     margin:inherit;
+    padding:60px;
+    background-color:burlywood;
+}
+.sectiontwo p{
+    font-family: monospace;
+    font-size:17px;
+}
+.sectiontwo header
+{
+    text-align: center;
+    padding:15px;
+    font-size:30px;
+}
+.third
+{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(photo.jpg);
+    background-position: center;
+    background-size:cover;
+    height:5vh;   
+    background-attachment:fixed;
+    background-repeat:repeat;
+}
+.third
+{
+    padding:250px;
+}
+.third p{
+    font-size:40px;
+    text-align: center;
+    font-family:fantasy;
+    background-color: aliceblue;
+    
+}
+.sectionthree{
+    margin:inherit;
+    padding:60px;
+    background-color:floralwhite;
+}
+.sectionthree p{
+    font-family: monospace;
+    font-size: 17px;
+}
+.sectionthree header{
+    
+    text-align: center;
+    padding:15px;
+    font-size:30px;
+}
